@@ -8,7 +8,7 @@ I am an Informatics Engineering student with a strong interest in backend develo
 
 📄 View my portfolio here:
 
-[Download Portfolio](./portfolio-fatih-mubarok.pdf)
+[Download Portfolio](./portfolio-fatih.pdf)
 
 ## Projects
 
