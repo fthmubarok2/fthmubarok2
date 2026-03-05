@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Fatih Mubarok 👋
 
-<!--
-**fthmubarok2/fthmubarok2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Node.js | Express | MySQL
 
-Here are some ideas to get you started:
+I am an Informatics Engineering student with a strong interest in backend development and building RESTful APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+
+📄 View my portfolio here:
+
+[Download Portfolio](./portfolio-fatih-mubarok.pdf)
+
+## Projects
+
+- **Anjelika Backend API**  
+  REST API for pregnancy transportation application built with Node.js and MySQL.
